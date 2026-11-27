@@ -87,6 +87,7 @@ export AIM_MODEL={{AIM_MODEL}}
 ## 动手之前
 
 - **先读** `{{AIM_HOME}}/AGENTS.md`（中央入口）、`{{AIM_HOME}}/README.md`（总览）。
+- **要动手的细节**看 `{{AIM_HOME}}/docs/使用教程.md`（从 clone 到出片的操作手册）。
 - **规范**在 `{{AIM_HOME}}/specs/`：平台契约 / 形象 / 音色 / 品牌片 / 人格。
 - **改之前先跑**：`cd {{AIM_HOME}} && python3 -m pytest tests/ -q`
   （本仓小，模块之间共用同一份 `model.json`，拆开跑没意义）。

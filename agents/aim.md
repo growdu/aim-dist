@@ -23,6 +23,8 @@ git status
 ls models/
 ```
 
+**操作细节**看 `{{AIM_HOME}}/docs/使用教程.md`（从 clone 到出片，每一步敲什么）。
+
 - 仓里有好几个人时**报出候选，让用户指**——**绝不猜**
   （猜错就是拿别人的事实去生成这个人的素材与片子）。
 - 指一个人 = `export AIM_MODEL={{AIM_MODEL}}`。
