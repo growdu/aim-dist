@@ -22,7 +22,7 @@ aim 本身交付的是 **CLI**（仓根的 `./aim`）。这个包把同一件事
 ## 装
 
 ```bash
-git clone <这个包> && cd aim-dist
+git clone https://github.com/growdu/aim-dist.git && cd aim-dist
 ./install.sh                       # 装到 ~/.claude
 ./install.sh --aim-home /path/aim  # aim 仓不在旁边就指一份
 ./install.sh --model /path/model.json  # 顺便指一个人
