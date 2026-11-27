@@ -1,0 +1,4 @@
+# 打出来的 tarball 不入库——它是产物，不是事实。
+/dist/
+__pycache__/
+*.pyc
